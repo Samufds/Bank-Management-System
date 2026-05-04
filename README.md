@@ -19,7 +19,7 @@ Python - PyMySQL - MySQL
 - Clone the repository
 ```
 
-git clone (link.git)
+git clone https://github.com/Samufds/Bank-Management-System.git
 
 ```
 - Create a MySQL database "bank"
