@@ -29,5 +29,8 @@ git clone https://github.com/Samufds/Bank-Management-System.git
 
 ## Preview
 
-![image alt] here
+![image alt] (ss1.png)
+
+![image alt] (ss2.png)
+
 
